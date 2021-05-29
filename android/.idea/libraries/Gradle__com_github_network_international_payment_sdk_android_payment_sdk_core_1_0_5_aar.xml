@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.network-international.payment-sdk-android:payment-sdk-core:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e40872b200af8eabf499f7ce7cc36cff/jetified-payment-sdk-core-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e40872b200af8eabf499f7ce7cc36cff/jetified-payment-sdk-core-1.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e40872b200af8eabf499f7ce7cc36cff/jetified-payment-sdk-core-1.0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.network-international.payment-sdk-android/payment-sdk-core/1.0.5/ced89fb4d4626979fe1785ef79be188d5ef3f180/payment-sdk-core-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

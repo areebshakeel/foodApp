@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.network-international.payment-sdk-android:payment-sdk-samsungpay:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51b8748a2e248a636421e6afa45390e4/jetified-payment-sdk-samsungpay-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51b8748a2e248a636421e6afa45390e4/jetified-payment-sdk-samsungpay-1.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51b8748a2e248a636421e6afa45390e4/jetified-payment-sdk-samsungpay-1.0.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51b8748a2e248a636421e6afa45390e4/jetified-payment-sdk-samsungpay-1.0.5/jars/libs/samsungpay_2.12.00.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.network-international.payment-sdk-android/payment-sdk-samsungpay/1.0.5/cfe1a86af7402a2e31cd2413a868b7871b94843/payment-sdk-samsungpay-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

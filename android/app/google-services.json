@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "769357624073",
+    "project_id": "foodapp-8fea2",
+    "firebase_url": "https://foodapp-8fea2-default-rtdb.firebaseio.com",
+    "storage_bucket": "foodapp-8fea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769357624073:android:08664cf2cf69e8fa7019d8",
+        "android_client_info": {
+          "package_name": "com.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769357624073-5qc1kofm20l5jul0nn56i0oajgnf9mnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVQb-nH4S-uRCpp74UBuC208wub0QDUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769357624073-5qc1kofm20l5jul0nn56i0oajgnf9mnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769357624073-5iou4uasp0l8gjjvjmt8fb55l5a4drju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.qhop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

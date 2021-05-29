@@ -1,0 +1,11 @@
+{
+    "login": {
+      "welcome": "مرحبًا {{name}}, في تطبيقنا المترجم!",
+      "greetings":"مرحبا بكم في FoodApp",
+      "login_button": "تسجيل الدخول",
+      "signup_button": "سجل"
+    },
+    "user_profile": {
+      "title": "הפרופיל שלך"  
+    }
+  }
